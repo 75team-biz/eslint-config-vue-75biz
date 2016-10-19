@@ -11,7 +11,7 @@ module.exports = {
     },
     processors: {
         '.vue': require('eslint-plugin-html').processors['.vue']
-    }
+    },
     env: {
         es6: true,
         node: true
