@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-vue-75biz",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "75biz vue eslint",
   "main": "index.js",
   "scripts": {
